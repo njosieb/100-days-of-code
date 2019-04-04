@@ -16,12 +16,12 @@
 
 <!-- **Link(s) to work**: [Calculator App](http://www.example.com) -->
 
-<!--
 ### Day 3: April 4, 2019 Thursday
 
-**Today's Progress**:
+**Today's Progress**: Added 2 Buttons, Icons, Made another color variable.
 
-**Thoughts**
-**Link(s) to work**
+**Thoughts** Day #3 of #100DaysOfCode focused on making buttons & trying to figure out how to style them. Had more fun adding icons that went well with them. Played around w/ background colors to also help with depth of site. We'll see how long they last til I change them lol #StayTuned
+
+<!-- **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
