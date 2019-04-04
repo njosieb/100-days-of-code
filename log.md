@@ -1,30 +1,27 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: April 2, 2019 Tuesday
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Container Classes & Links
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** For the first day of the #100DaysOfCode challenge I worked on a wedding website I’m building! My focus today was on adding container classes to the sections, designing layout of different parts & making sure all of my links were working like they should
 
-**Link to work:** [Calculator App](http://www.example.com)
+<!-- **Link to work:** [Calculator App](http://www.example.com) -->
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: April 3, 2019 Wednesday
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Background images on Sections & Adding Icons
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: Day #2 of #100DaysOfCode I continued on the wedding website & worked on creating depth in each section, so I played around with background images in certain sections. I also added icons to each of the section titles, I might edit them out, but I'm trying to see if I like them :)
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+<!-- **Link(s) to work**: [Calculator App](http://www.example.com) -->
 
+<!--
+### Day 3: April 4, 2019 Thursday
 
-### Day 1: June 27, Monday
+**Today's Progress**:
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
+**Thoughts**
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
