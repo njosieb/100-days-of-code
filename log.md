@@ -20,7 +20,13 @@
 
 **Today's Progress**: Added 2 Buttons, Icons, Made another color variable.
 
-**Thoughts** Day #3 of #100DaysOfCode focused on making buttons & trying to figure out how to style them. Had more fun adding icons that went well with them. Played around w/ background colors to also help with depth of site. We'll see how long they last til I change them lol #StayTuned
+**Thoughts**: Day #3 of #100DaysOfCode focused on making buttons & trying to figure out how to style them. Had more fun adding icons that went well with them. Played around w/ background colors to also help with depth of site. We'll see how long they last til I change them lol #StayTuned
+
+### Day 4: April 5, 2019 Friday
+
+**Today's Progress**: Fixing Spacing in Navbar, Adjusting Fonts, Crop images for registry section, Editing images & erasing background.
+
+**Thoughts**: Day #4 of #100DaysOfCode was spent working on fixing spacing in navbar, adjusting fonts for better readability & trying to find out how to erase the background of some images to allow for the background color of a section to show all around it... still a work in progress...
 
 <!-- **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
