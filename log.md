@@ -28,6 +28,12 @@
 
 **Thoughts**: Day #4 of #100DaysOfCode was spent working on fixing spacing in navbar, adjusting fonts for better readability & trying to find out how to erase the background of some images to allow for the background color of a section to show all around it... still a work in progress...
 
+### Day 5: April 6, 2019 Saturday
+
+**Today's Progress**: Figuring out which divs to put borders on, adjusting existing border colors
+
+**Thoughts**: Day #5 of #100DaysOfCode involved a lot of trial and error regarding whether or not to give certain elements a border and, if so, which color... I also considered existing borders and whether or not their border color should be edited. Small edits, but big difference!
+
 <!-- **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
