@@ -34,6 +34,12 @@
 
 **Thoughts**: Day #5 of #100DaysOfCode involved a lot of trial and error regarding whether or not to give certain elements a border and, if so, which color... I also considered existing borders and whether or not their border color should be edited. Small edits, but big difference!
 
+### Day 6: April 7, 2019 Sunday
+
+**Today's Progress**: Editing fonts styles & sizes, Adding Icons & adjusting colors and styles of existing icons. Looking more into how to make a text modal.
+
+**Thoughts**: Day #6 of #100DaysOfCode I worked on editing the fonts styles & sizes of the wedding website. I also worked with adding icons and editing ones that are already on the page. Finally, I started looking up how to make a text modal.
+
 <!-- **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
