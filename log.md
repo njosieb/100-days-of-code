@@ -40,6 +40,12 @@
 
 **Thoughts**: Day #6 of #100DaysOfCode I worked on editing the fonts styles & sizes of the wedding website. I also worked with adding icons and editing ones that are already on the page. Finally, I started looking up how to make a text modal.
 
+### Day 7: April 8, 2019 Monday
+
+**Today's Progress**: Created a container component that was applied to all of the sections.
+
+**Thoughts**: Day #7 of #100DaysOfCode I researched how to created a container component & was able to created & apply it in all of the sections of site. This took the place of a container class I had set in each section. Also made new list of future plans for the site. #brainstorm
+
 <!-- **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
