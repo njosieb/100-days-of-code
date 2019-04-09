@@ -46,6 +46,12 @@
 
 **Thoughts**: Day #7 of #100DaysOfCode I researched how to created a container component & was able to created & apply it in all of the sections of site. This took the place of a container class I had set in each section. Also made new list of future plans for the site. #brainstorm
 
+### Day 8: April 9, 2019 Tuesday
+
+**Today's Progress**: Fixed alignment in Navbar, Added footer, Fixed width in wedding party boxes, fixed wedding party background
+
+**Thoughts**: Holy Day #8 of #100DaysOfCode Batman! I added the footer, fixed text-alignment in the Navbar, Made background of sections more cohesive with the border-shadow effect. Still working on how to make the registry pictures work...
+
 <!-- **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
