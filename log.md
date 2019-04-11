@@ -52,6 +52,12 @@
 
 **Thoughts**: Holy Day #8 of #100DaysOfCode Batman! I added the footer, fixed text-alignment in the Navbar, Made background of sections more cohesive with the border-shadow effect. Still working on how to make the registry pictures work...
 
+### Day 9: April 10, 2019 Wednesday
+
+**Today's Progress**: Figuring out how to adjust the logos in the registry section, changing colors of the icons in the section titles.
+
+**Thoughts**: Day #9 of #100DaysOfCode went quickly because I spent most of my time figuring out how to adjust the height & width of an element in one of the sections. Doesn't sound like it should have taken me so much time, but I'm not surprised lol I also played around with icon colors
+
 <!-- **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
