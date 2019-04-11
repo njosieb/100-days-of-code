@@ -58,6 +58,12 @@
 
 **Thoughts**: Day #9 of #100DaysOfCode went quickly because I spent most of my time figuring out how to adjust the height & width of an element in one of the sections. Doesn't sound like it should have taken me so much time, but I'm not surprised lol I also played around with icon colors
 
+### Day 10: April 11, 2019 Thursday
+
+**Today's Progress**: Added hover grow effect, Added hover effect to other elements that are supposed to be clicked on.
+
+**Thoughts**: Day #10 of #100DaysOfCode I worked on adding hover classes to buttons and other things which are supposed to be clicked. I also made it so the arrow turns into the hand selector so the user will know that it is clickable. #clickbait #clickMe
+
 <!-- **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
