@@ -64,6 +64,12 @@
 
 **Thoughts**: Day #10 of #100DaysOfCode I worked on adding hover classes to buttons and other things which are supposed to be clicked. I also made it so the arrow turns into the hand selector so the user will know that it is clickable. #clickbait #clickMe
 
+### Day 11: April 12, 2019 Friday
+
+**Today's Progress**: Looking into how to make buttons look better.
+
+**Thoughts**: Day #11 of #100DaysOfCode was pretty uneventful as I was mainly trying to figure out how to add buttons to each clickable items while making them look more interesting than usual
+
 <!-- **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
