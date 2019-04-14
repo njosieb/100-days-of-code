@@ -76,6 +76,12 @@
 
 **Thoughts**: Day #12 of #100DaysOfCode I focused on adding buttons and making sure they were cohesive throughout the site. I was also able to make them grow when you hover over them, which may seem simple to some, but I'm pretty pleased with myself :)
 
+### Day 13: April 14, 2019 Sunday
+
+**Today's Progress**: Changed picture in hotel section, Fixes hover on elements that don't need it. Added hover to NJH Designs
+
+**Thoughts**: Lucky Day #13 of #100DaysOfCode Was filled with editing of pictures, adjusting hover-grow classes throughout the sections and to my name in the footer. I played around with background colors for the picture captions, but it just didn't go. #ohwell
+
 <!-- **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
