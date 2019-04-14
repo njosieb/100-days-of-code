@@ -70,6 +70,12 @@
 
 **Thoughts**: Day #11 of #100DaysOfCode was pretty uneventful as I was mainly trying to figure out how to add buttons to each clickable items while making them look more interesting than usual
 
+### Day 12: April 13, 2019 Saturday
+
+**Today's Progress**: Added buttons throughout site, Tweaked certain things to make site more cohesive.
+
+**Thoughts**: Day #12 of #100DaysOfCode I focused on adding buttons and making sure they were cohesive throughout the site. I was also able to make them grow when you hover over them, which may seem simple to some, but I'm pretty pleased with myself :)
+
 <!-- **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
