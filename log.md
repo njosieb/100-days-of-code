@@ -82,6 +82,12 @@
 
 **Thoughts**: Lucky Day #13 of #100DaysOfCode Was filled with editing of pictures, adjusting hover-grow classes throughout the sections and to my name in the footer. I played around with background colors for the picture captions, but it just didn't go. #ohwell
 
+### Day 14: April 15, 2019 Monday
+
+**Today's Progress**: Added div to eventually add a way-point that transitions into a sticky header as the user scrolls down the site.
+
+**Thoughts**: Day #14 of #100DaysOfCode Added a div at the bottom of the header section that will eventually be used as a Vue way-point in order to transition it to a fixed navbar when user scrolls down the site. (terminology might be off in my description, but I know what I'm about!)
+
 <!-- **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
