@@ -88,6 +88,12 @@
 
 **Thoughts**: Day #14 of #100DaysOfCode Added a div at the bottom of the header section that will eventually be used as a Vue way-point in order to transition it to a fixed navbar when user scrolls down the site. (terminology might be off in my description, but I know what I'm about!)
 
+### Day 15: April 16, 2019 Tuesday
+
+**Today's Progress**: Adjusted colors on section title, played around with adjusting heights & widths of the schedule section text as well. Looking more into way points as well.
+
+**Thoughts**: Day #15 of #100DaysOfCode was pretty uneventful but I did continue to look up waypoints and tweak spacing and colors of certain text throughout the site.
+
 <!-- **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
