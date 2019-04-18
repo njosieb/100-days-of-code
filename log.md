@@ -94,6 +94,12 @@
 
 **Thoughts**: Day #15 of #100DaysOfCode was pretty uneventful but I did continue to look up waypoints and tweak spacing and colors of certain text throughout the site.
 
+### Day 16: April 17, 2019 Wednesday
+
+**Today's Progress**: Updated lots of information on site, brought section titles into box in each section, created lighter and darker colors to use throughout site, Added photo border which helps with color cohesion.
+
+**Thoughts**: Day #16 of #100DaysOfCode Added lots of updated information from the bride who I'm building the site for, which makes it seem more relevant & excites me that one day real soon, people are going to be interacting with it! I also played around with colors & fun stuff like that.
+
 <!-- **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
