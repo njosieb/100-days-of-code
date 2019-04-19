@@ -100,6 +100,12 @@
 
 **Thoughts**: Day #16 of #100DaysOfCode Added lots of updated information from the bride who I'm building the site for, which makes it seem more relevant & excites me that one day real soon, people are going to be interacting with it! I also played around with colors & fun stuff like that.
 
+### Day 17: April 18, 2019 Thursday
+
+**Today's Progress**: Added input field for song suggestions, edited buttons
+
+**Thoughts**: Day #17 of #100DaysOfCode I got to play around with adding a form that the Bride wants for suggesting songs for the reception. Even though it will evolve eventually into a pop-up modal, I was able to incorporate it into what was already on the site.
+
 <!-- **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
