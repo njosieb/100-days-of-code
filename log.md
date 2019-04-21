@@ -106,6 +106,14 @@
 
 **Thoughts**: Day #17 of #100DaysOfCode I got to play around with adding a form that the Bride wants for suggesting songs for the reception. Even though it will evolve eventually into a pop-up modal, I was able to incorporate it into what was already on the site.
 
+### Day 18: April 19, 2019 Friday
+
+### Day 19: April 20, 2019 Saturday
+
+**Today's Progress**: Deployed the site!
+
+**Thoughts**: Wedding Website Site === DEPLOYED!!!
+
 <!-- **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
