@@ -114,6 +114,16 @@
 
 **Thoughts**: Wedding Website Site === DEPLOYED!!!
 
+### Day 20: April 21, 2019 Sunday
+
+### Day 21: April 22, 2019 Monday
+
+### Day 22: April 23, 2019 Tuesday
+
+**Today's Progress**: Looked up text modals to use for my buttons
+
+**Thoughts**: Its really hard to read documentation when trying to learn about something and try to implement into an already existing project because nothing ever look like what you think it will. It's like taking 1 step forward and 3 steps back, simply because it feels like a waste of time.
+
 <!-- **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
