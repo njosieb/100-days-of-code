@@ -130,6 +130,12 @@
 
 **Thoughts**: Spent an embarassasingly long time trying to figure out how to change padding/margin and then realized I didn't like how it looked after all.
 
+### Day 24: April 25, 2019 Thursday
+
+**Today's Progress**: Learned difference between live site and local site changes lol... big deal... played with colors and stuff
+
+**Thoughts**: Day #24 of #100DaysOfCode I learned a valuable lesson about making sure I knew which version of the website I was looking at while trying to make changes... turns out checking live site for changes made to local site will only end in frustration. #TheMoreYouKnow
+
 <!-- **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
