@@ -136,6 +136,12 @@
 
 **Thoughts**: Day #24 of #100DaysOfCode I learned a valuable lesson about making sure I knew which version of the website I was looking at while trying to make changes... turns out checking live site for changes made to local site will only end in frustration. #TheMoreYouKnow
 
+### Day 25: April 26, 2019 Friday
+
+**Today's Progress**: Added sticky header and routing to various sections throughout the site, from the Navbar
+
+**Thoughts**: Day #25 of #100DaysOfCode Learned how to add a sticky header and navigation to each of the sections from nuxt-links in the navbar!
+
 <!-- **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
