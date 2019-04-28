@@ -142,6 +142,12 @@
 
 **Thoughts**: Day #25 of #100DaysOfCode Learned how to add a sticky header and navigation to each of the sections from nuxt-links in the navbar!
 
+### Day 26: April 27, 2019 Saturday
+
+**Today's Progress**: Added sticky header's functionality and learned about lodash method library
+
+**Thoughts**: Day #26 of #100DaysOfCode was pretty fun because I was able to add functionality to the sticky header so that it gets a background color as soon as the user scrolls! I also made sure that the function doesn't interfere with performance of site
+
 <!-- **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
