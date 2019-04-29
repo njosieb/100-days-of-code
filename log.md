@@ -148,6 +148,12 @@
 
 **Thoughts**: Day #26 of #100DaysOfCode was pretty fun because I was able to add functionality to the sticky header so that it gets a background color as soon as the user scrolls! I also made sure that the function doesn't interfere with performance of site
 
+### Day 27: April 28, 2019 Sunday
+
+**Today's Progress**: Created more color variables to use for nav bar, added classes to nav-links, added z-index in wedding party section to make navbar stay on top of it.
+
+**Thoughts**: Day #27 of #100DaysOfCode was all about color variables, adding classes to the nav-bar links and making sure that the nav-bar stayed above any content as you scrolled through the page.
+
 <!-- **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
