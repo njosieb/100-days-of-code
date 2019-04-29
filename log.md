@@ -154,6 +154,12 @@
 
 **Thoughts**: Day #27 of #100DaysOfCode was all about color variables, adding classes to the nav-bar links and making sure that the nav-bar stayed above any content as you scrolled through the page.
 
+### Day 28: April 29, 2019 Monday
+
+**Today's Progress**: Made more color variables, reorganized the polaroids in each section by either taking out things that should be outside of the white frame or making sure that all information fits in the white parts of the polaroid... making it more coherent.
+
+**Thoughts**: Days #28 OF #100DaysofCode I made even more colors & tried to reorganize divs used throughout site so that they are more cohesive. Fun to see how making "little" tweaks makes a big difference as I work towards making it look like I want it to #workinprogress #emphasisonPROGRESS
+
 <!-- **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
