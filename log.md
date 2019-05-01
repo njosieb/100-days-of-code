@@ -160,6 +160,12 @@
 
 **Thoughts**: Days #28 OF #100DaysofCode I made even more colors & tried to reorganize divs used throughout site so that they are more cohesive. Fun to see how making "little" tweaks makes a big difference as I work towards making it look like I want it to #workinprogress #emphasisonPROGRESS
 
+### Day 29: April 30, 2019 Tuesday
+
+**Today's Progress**: Added border bottom to navbar, Changed picture of Church
+
+**Thoughts**: Day #29 of #100DaysOfCode brought with it an exciting, albeit small, feature of putting a bottom border on the sticky header. It really looks great throughout the page and makes it look cohesive.. at least so far
+
 <!-- **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
