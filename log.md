@@ -166,6 +166,12 @@
 
 **Thoughts**: Day #29 of #100DaysOfCode brought with it an exciting, albeit small, feature of putting a bottom border on the sticky header. It really looks great throughout the page and makes it look cohesive.. at least so far
 
+### Day 30: May 1, 2019 Wednesday
+
+**Today's Progress**: Was able to regroup and refocus my attention on tangible tasks that I should be working on instead of going by the seat of my pants.
+
+**Thoughts**:Day #30 of #100DaysOfCode Not so much actual coding happening today but more regrouping and refocusing of attention on what I should be working on instead of just going by the seat of my pants.
+
 <!-- **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
