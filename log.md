@@ -172,6 +172,12 @@
 
 **Thoughts**:Day #30 of #100DaysOfCode Not so much actual coding happening today but more regrouping and refocusing of attention on what I should be working on instead of just going by the seat of my pants.
 
+### Day 31: May 2, 2019 Thursday
+
+**Today's Progress**: Making the header background picture jive with the text that is on top of it in both the "top of the screen" position and what the background color is when you scroll!
+
+**Thoughts**: Day #31 of #100DaysOfCode I had a breakthrough while working with font color & accessibility with the contrasting colors of both a background photo (when at a certain position) and the sticky header (when user is scrolling)! Very exciting!
+
 <!-- **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
