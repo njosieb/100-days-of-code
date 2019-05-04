@@ -178,6 +178,12 @@
 
 **Thoughts**: Day #31 of #100DaysOfCode I had a breakthrough while working with font color & accessibility with the contrasting colors of both a background photo (when at a certain position) and the sticky header (when user is scrolling)! Very exciting!
 
+### Day 32: May 3, 2019 Friday
+
+**Today's Progress**: Continuing to fine-tune the color story throughout the site because of the new header background picture.
+
+**Thoughts**: Day #32 of #100DaysOfCode Made sure the changes I made yesterday made sense & were coherent with the rest of the site. I took the main color of the new header image & made it the background color for some sections of the site to help lighten the whole thing up quite a bit.
+
 <!-- **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
