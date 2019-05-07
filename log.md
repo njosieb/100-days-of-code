@@ -184,6 +184,16 @@
 
 **Thoughts**: Day #32 of #100DaysOfCode Made sure the changes I made yesterday made sense & were coherent with the rest of the site. I took the main color of the new header image & made it the background color for some sections of the site to help lighten the whole thing up quite a bit.
 
+### Day 33: May 4, 2019 Saturday
+
+### Day 34: May 5, 2019 Sunday
+
+### Day 35: May 6, 2019 Monday
+
+**Today's Progress**: Looked into and Made the title, that shows up on the tab in the browser, personalized!
+
+**Thoughts**: Day #35 of #100DDaysOfCode Learned how to change the title of the site, in the specific way Nuxt needs it to be done. At first I thought this would be easy-peasy, based on how I learned to do it in regular ole html, but easy-peasy & web-dev sometimes don't go together
+
 <!-- **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
