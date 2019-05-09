@@ -194,6 +194,18 @@
 
 **Thoughts**: Day #35 of #100DDaysOfCode Learned how to change the title of the site, in the specific way Nuxt needs it to be done. At first I thought this would be easy-peasy, based on how I learned to do it in regular ole html, but easy-peasy & web-dev sometimes don't go together
 
+### Day 36: May 7, 2019 Tuesday
+
+**Today's Progress**: Adjusted colors of icons and other elements to fit the color story better.
+
+**Thoughts**: Day #36 of #100DaysOfCode Fixed colors to make the website look more cohesive... i feel like I used the word "cohesive" in 75% of my tweets...
+
+### Day 37: May 8, 2019 Wednesday
+
+**Today's Progress**: Added login modal so that website can be password protected.
+
+**Thoughts**: Day #37 of #100DaysOfCode I added a login modal to the website to allow for password protection, which is pretty cool!
+
 <!-- **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
