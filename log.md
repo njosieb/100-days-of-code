@@ -206,6 +206,12 @@
 
 **Thoughts**: Day #37 of #100DaysOfCode I added a login modal to the website to allow for password protection, which is pretty cool!
 
+### Day 38: May 9, 2019 Thursday
+
+**Today's Progress**: Designed the enter landing page for the user to enter the password to go to the main site!
+
+**Thoughts**: Day #38 of #100DaysOfCode was ALL about designing the landing page for the password protection we are going to have for the website. My focus was to make it feel warm & welcoming so that the user is definitely going to want to know the password to get to see the rest of the site.
+
 <!-- **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
