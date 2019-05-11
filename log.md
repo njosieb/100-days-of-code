@@ -212,6 +212,12 @@
 
 **Thoughts**: Day #38 of #100DaysOfCode was ALL about designing the landing page for the password protection we are going to have for the website. My focus was to make it feel warm & welcoming so that the user is definitely going to want to know the password to get to see the rest of the site.
 
+### Day 39: May 10, 2019 Friday
+
+**Today's Progress**: Added an error function to the input field when user enters an incorrect password.
+
+**Thoughts**: Day #39 of #100DaysOfCode was all about adding an error notification when user enters an incorrect password. Moral of today's coding sesh: Coding is not for the faint of heart & this particular task almost proved to be too much for this oft-faint-of-heart coder. #justkeepcoding
+
 <!-- **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
