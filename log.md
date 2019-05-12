@@ -218,6 +218,12 @@
 
 **Thoughts**: Day #39 of #100DaysOfCode was all about adding an error notification when user enters an incorrect password. Moral of today's coding sesh: Coding is not for the faint of heart & this particular task almost proved to be too much for this oft-faint-of-heart coder. #justkeepcoding
 
+### Day 40: May 11, 2019 Saturday
+
+**Today's Progress**: Made the arrow underneathe the header a nuxt-link to the Schedule section.
+
+**Thoughts**: Day #40 of #100DaysOfCode I added a nuxt-link to an arrow icon under the main header which takes the user to the first section. I also made sure that where the link landed looked good so that it made a good transition and definitive move.
+
 <!-- **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
