@@ -224,6 +224,14 @@
 
 **Thoughts**: Day #40 of #100DaysOfCode I added a nuxt-link to an arrow icon under the main header which takes the user to the first section. I also made sure that where the link landed looked good so that it made a good transition and definitive move.
 
+### Day 41: May 12, 2019 Sunday
+
+### Day 42: May 13, 2019 Monday
+
+**Today's Progress**: Changed password to what the bride & groom wanted.. Made sure colors were readable
+
+**Thoughts**: Day #42 of #100DaysOfCode #TIL that the reason why coding problems are called 'bugs' is because they come out of nowhere and bite you in the @\$\$
+
 <!-- **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
