@@ -230,7 +230,7 @@
 
 **Today's Progress**: Changed password to what the bride & groom wanted.. Made sure colors were readable
 
-**Thoughts**: Day #42 of #100DaysOfCode #TIL that the reason why coding problems are called 'bugs' is because they come out of nowhere and bite you in the @\\\$\$
+**Thoughts**: Day #42 of #100DaysOfCode #TIL that the reason why coding problems are called 'bugs' is because they come out of nowhere and bite you in the @\\\\$\$
 
 ### Day 43: May 14, 2019 Tuesday
 
@@ -269,6 +269,12 @@ Day #47 & #48 of #100DaysOfCode -- On day #47, I was able to show the client the
 
 **Thoughts**:
 Day #47 & #48 of #100DaysOfCode -- On day #47, I was able to show the client their website and got a really good response, so that was fun! On day #48 I started the daunting task of making the site mobile friendly... so send good vibes my way :)
+
+### Day 49: May 20, 2019 Monday
+
+**Today's Progress**: Fitting everything into the mobile friendly screen.
+
+**Thoughts**: Day #49 of #100DaysOfCode was all about making sure everything fits into the screen size for a mobile friendly page. Now that I have it fitting, I can now focus on making sure everything is arranged properly within the screen.
 
 <!-- **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
