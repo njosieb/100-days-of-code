@@ -230,7 +230,7 @@
 
 **Today's Progress**: Changed password to what the bride & groom wanted.. Made sure colors were readable
 
-**Thoughts**: Day #42 of #100DaysOfCode #TIL that the reason why coding problems are called 'bugs' is because they come out of nowhere and bite you in the @\\$\$
+**Thoughts**: Day #42 of #100DaysOfCode #TIL that the reason why coding problems are called 'bugs' is because they come out of nowhere and bite you in the @\\\$\$
 
 ### Day 43: May 14, 2019 Tuesday
 
@@ -238,23 +238,37 @@
 
 **Thoughts**: Days #43-46 of #100DaysOfCode been super busy and forgetting to tweet, but i have been making some tweaks to existing elements - including a heart design that I use as a item separator, instead of a boring line... small thing but makes me like the site that much more.
 
-### Day 44: May 15, 2019 Tuesday
+### Day 44: May 15, 2019 Wednesday
 
 **Today's Progress**:
 
 **Thoughts**: Days #43-46 of #100DaysOfCode been super busy and forgetting to tweet, but i have been making some tweaks to existing elements - including a heart design that I use as a item separator, instead of a boring line... small thing but makes me like the site that much more.
 
-### Day 45: May 16, 2019 Tuesday
+### Day 45: May 16, 2019 Thursday
 
 **Today's Progress**: Restructured the hearts theme
 
 **Thoughts**: today was rough.. very sick and wasn't able to tweet... Days #43-46 of #100DaysOfCode been super busy and forgetting to tweet, but i have been making some tweaks to existing elements - including a heart design that I use as a item separator, instead of a boring line... small thing but makes me like the site that much more.
 
-### Day 46: May 17, 2019 Tuesday
+### Day 46: May 17, 2019 Friday
 
 **Today's Progress**: Made final touches on hearts and edited it throughout the site.
 
 **Thoughts**: Days #43-46 of #100DaysOfCode been super busy and forgetting to tweet, but i have been making some tweaks to existing elements - including a heart design that I use as a item separator, instead of a boring line... small thing but makes me like the site that much more.
+
+### Day 47: May 18, 2019 Saturday
+
+**Today's Progress**: Showed Bill & Kelly the website and they loved it.
+
+**Thoughts**:
+Day #47 & #48 of #100DaysOfCode -- On day #47, I was able to show the client their website and got a really good response, so that was fun! On day #48 I started the daunting task of making the site mobile friendly... so send good vibes my way :)
+
+### Day 48: May 19, 2019 Sunday
+
+**Today's Progress**: Started the daunting task of making the site mobile friendly.
+
+**Thoughts**:
+Day #47 & #48 of #100DaysOfCode -- On day #47, I was able to show the client their website and got a really good response, so that was fun! On day #48 I started the daunting task of making the site mobile friendly... so send good vibes my way :)
 
 <!-- **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
