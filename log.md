@@ -230,7 +230,7 @@
 
 **Today's Progress**: Changed password to what the bride & groom wanted.. Made sure colors were readable
 
-**Thoughts**: Day #42 of #100DaysOfCode #TIL that the reason why coding problems are called 'bugs' is because they come out of nowhere and bite you in the @\\\\\\$\$
+**Thoughts**: Day #42 of #100DaysOfCode #TIL that the reason why coding problems are called 'bugs' is because they come out of nowhere and bite you in the @\\\\\\\$\$
 
 ### Day 43: May 14, 2019 Tuesday
 
@@ -287,6 +287,12 @@ Day #47 & #48 of #100DaysOfCode -- On day #47, I was able to show the client the
 **Today's Progress**: Added elements that will be used for mobile menu.
 
 **Thoughts**:Day #51 of #100DaysOfCode I started building the elements for the mobile menu. Little things like padding and clashing of some other classes are keeping it from fitting just right, but looks like I already know what I'll be working on tomorrow! lol
+
+### Day 52: May 23, 2019 Thursday
+
+**Today's Progress**: Styled and properly linked the mobile menu!!!!!!!!!!!!!!!!!!!!!! AHHH
+
+**Thoughts**: Day #52 of #100DaysOfCode Figured out how to style & put links in the mobile friendly menu. I was able to guess my way through referring to another project, tweaking a few things here & there, I worked on with the same premise. I was shocked when it worked Very proud of myself!
 
 <!-- **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
