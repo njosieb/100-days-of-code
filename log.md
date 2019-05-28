@@ -230,7 +230,7 @@
 
 **Today's Progress**: Changed password to what the bride & groom wanted.. Made sure colors were readable
 
-**Thoughts**: Day #42 of #100DaysOfCode #TIL that the reason why coding problems are called 'bugs' is because they come out of nowhere and bite you in the @\\\\\\\$\$
+**Thoughts**: Day #42 of #100DaysOfCode #TIL that the reason why coding problems are called 'bugs' is because they come out of nowhere and bite you in the @\\\\\\\\$\$
 
 ### Day 43: May 14, 2019 Tuesday
 
@@ -293,6 +293,20 @@ Day #47 & #48 of #100DaysOfCode -- On day #47, I was able to show the client the
 **Today's Progress**: Styled and properly linked the mobile menu!!!!!!!!!!!!!!!!!!!!!! AHHH
 
 **Thoughts**: Day #52 of #100DaysOfCode Figured out how to style & put links in the mobile friendly menu. I was able to guess my way through referring to another project, tweaking a few things here & there, I worked on with the same premise. I was shocked when it worked Very proud of myself!
+
+### Day 53: May 24, 2019 Friday
+
+### Day 54: May 25, 2019 Saturday
+
+### Day 55: May 26, 2019 Sunday
+
+### Day 56: May 27, 2019 Monday
+
+### Day 57: May 28, 2019 Tuesday
+
+**Today's Progress**: Worked on making mobile site look better.. Got a lot done
+
+**Thoughts**: Days #53-57 of #100DaysOfCode Working on editing the mobile-friendly site. It's amazing how little adjustments make the biggest difference. It's also funny how frequently I make silly mistakes like making a CSS class, forget to call it, & then I wonder why its not working. lol
 
 <!-- **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
